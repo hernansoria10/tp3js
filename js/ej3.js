@@ -10,5 +10,5 @@ for (let i = 0; i < 50; i++) {
 }
 
 for (let i = 0; i < ContadorSumas.length; i++) {
-  document.write(`Suma ${i + 2}: ${ContadorSumas[i]} veces <br>`);
+  document.write(`Suma ${i + 2}🎲🎲---- ${ContadorSumas[i]} apariciones <br><br>`);
 }
