@@ -1,4 +1,5 @@
 let NumeroIngresado
+
 function parOImpar(numero){
  NumeroIngresado = parseInt(prompt("ingrese un numero"));
 
