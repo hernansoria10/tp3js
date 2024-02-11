@@ -8,7 +8,7 @@ do {
 } while (respuesta === true);
 
 document.write(`El arreglo tiene ${ciudades.length} elemento/s`);
-ciudades.push("Paris");
+ciudades.push("París");
 ciudades.splice(1, 0, "Barcelona");
 
 let UltiPosicionUsuario = ciudades[ciudades.length - 2];
