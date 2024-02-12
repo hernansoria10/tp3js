@@ -9,5 +9,4 @@ let perimetroCuadrado = 2*altura + 2*base
         document.write(`el perimetro del rectagnulo es: ${perimetro}`)
     }
 
-}
 CalcularPerimetro(perimetro)
